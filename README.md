@@ -15,3 +15,6 @@ Java is a MUST for students and working professionals to become a great Software
 6. Portable − Being architecture-neutral and having no implementation dependent aspects of the specification makes Java portable. Compiler in Java is written in ANSI C with a clean portability boundary, which is a POSIX subset.
 
 7. Robust − Java makes an effort to eliminate error prone situations by emphasizing mainly on compile time error checking and runtime checking.
+
+NOTE:
+Class Name and File Name should be same.
